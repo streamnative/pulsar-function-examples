@@ -4,11 +4,9 @@ go 1.20
 
 require (
 	github.com/golang/protobuf v1.5.3
-	google.golang.org/grpc v1.58.0
+	google.golang.org/grpc v1.58.3
 	google.golang.org/protobuf v1.31.0
 )
-
-require github.com/golang/snappy v0.0.4 // indirect
 
 require (
 	github.com/go-logr/logr v1.2.4
